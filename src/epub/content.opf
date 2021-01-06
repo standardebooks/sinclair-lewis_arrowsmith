@@ -42,7 +42,7 @@
 		</meta>
 		<dc:language>LANG</dc:language>
 		<dc:source>http://gutenberg.net.au/ebooks02/0200131h.html</dc:source>
-		<dc:source>https://catalog.hathitrust.org/Record/000538061</dc:source>
+		<dc:source>https://archive.org/details/lewis_arrowsmith_1925</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
