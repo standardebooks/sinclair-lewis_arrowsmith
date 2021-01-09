@@ -48,6 +48,10 @@
 	text-align: right;
 }
 
+[epub|type~="acknowledgements"]{
+	margin-top: 20vh;
+}
+
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
