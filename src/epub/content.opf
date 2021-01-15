@@ -57,10 +57,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sinclair_Lewis</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79023149</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Akseli Gallen-Kallela</dc:contributor>
-		<meta property="file-as" refines="#artist">Gallen-Kallela, Akseli</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Akseli_Gallen-Kallela</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79127990</meta>
+		<dc:contributor id="artist">Joaquín Sorolla y Bastida</dc:contributor>
+		<meta property="file-as" refines="#artist">Sorolla y Bastida, Joaquín</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/en:Joaqu%C3%ADn_Sorolla</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81106801</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Colin Choat</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Choat, Colin</meta>
