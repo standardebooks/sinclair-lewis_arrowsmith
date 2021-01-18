@@ -1,19 +1,30 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-#chapter-19 blockquote:nth-of-type(3){
+#chapter-19 blockquote,
+#chapter-21 blockquote,
+#chapter-22 blockquote
+#chapter-23 blockquote
+#chapter-25 blockquote,
+#chapter-39-4 blockquote{
+	font-style: italic;
+}
+
+#chapter-19-2 blockquote:nth-of-type(3){
+	font-style: normal;
 	font-variant: small-caps;
 }
 
-#chapter-19 blockquote:nth-of-type(3) span:nth-of-type(2){
+#chapter-19-2 blockquote:nth-of-type(3) span:nth-of-type(2){
 	margin-left: 1em;
 }
 
-#chapter-19 blockquote:nth-of-type(3) span:nth-of-type(3){
+#chapter-19-2 blockquote:nth-of-type(3) span:nth-of-type(3){
 	margin-left: 2em;
 }
 
-#chapter-23 blockquote{
+#chapter-23 blockquote,
+#chapter-36 blockquote{
 	text-align: center;
 }
 
@@ -25,26 +36,24 @@
 	margin-top: 1em;
 }
 
-#chapter-36 blockquote{
-	text-align: center;
-}
-
 #chapter-36 blockquote p{
 	text-align: initial;
 }
 
-#chapter-39 blockquote{
-	margin: auto;
+#chapter-39-1 blockquote{
+	margin-left: auto;
+	margin-right: auto;
 	max-width: 20em;
 }
 
 #chapter-23 blockquote p,
-#chapter-39 blockquote p{
+#chapter-39-1 blockquote p{
 	text-align: center;
 	text-indent: 0;
 }
 
 #chapter-39 blockquote footer p{
+	font-style: italic;
 	text-align: right;
 }
 
