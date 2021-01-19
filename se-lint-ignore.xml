@@ -6,4 +6,10 @@
 			<reason>Matched text requires spans for indentation styling and is not verse.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-34.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog is correct as quoted.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
