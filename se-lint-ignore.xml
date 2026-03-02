@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-19.xhtml">
-		<ignore>
-			<code>s-046</code>
+		<ignore code="s-046">
 			<reason>Matched text requires spans for indentation styling and is not verse.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-34.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Dialog is correct as quoted.</reason>
 		</ignore>
 	</file>
