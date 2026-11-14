@@ -71,9 +71,10 @@
 		<link href="https://en.wikipedia.org/wiki/Sinclair_Lewis" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79023149.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Joaquín Sorolla y Bastida</dc:contributor>
-		<meta property="file-as" refines="#artist">Sorolla y Bastida, Joaquín</meta>
-		<link href="https://en.wikipedia.org/wiki/en:Joaqu%C3%ADn_Sorolla" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">Joaquín Sorolla</dc:contributor>
+		<meta property="file-as" refines="#artist">Sorolla, Joaquín</meta>
+		<meta property="schema:alternateName" refines="#artist">Joaquín Sorolla y Bastida</meta>
+		<link href="https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Sorolla" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81106801.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Colin Choat</dc:contributor>
